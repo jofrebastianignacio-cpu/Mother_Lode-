@@ -1,0 +1,79 @@
+Mother Lode +
+Copyright (c) 2026 x'auka. Todos los derechos reservados. / All rights reserved.
+
+========================================================================
+ESPAÑOL
+========================================================================
+
+Este mod, incluido su código fuente, sus texturas, dibujos, textos y
+cualquier otro contenido propio, es obra de x'auka y está protegido por
+derechos de autor. Todos los derechos están reservados.
+
+Está permitido:
+  - Descargar el mod e instalarlo para jugar, en partidas individuales o
+    en servidores.
+  - Grabar, transmitir y publicar videos, imágenes o directos donde
+    aparezca el mod.
+
+No está permitido sin autorización escrita de x'auka:
+  - Volver a publicar, subir o distribuir el mod, completo o en partes,
+    en cualquier sitio o plataforma.
+  - Incluir el mod en modpacks.
+  - Modificar el código o las texturas y distribuir el resultado.
+  - Usar el código, las texturas o los diseños del mod en otros
+    proyectos.
+  - Vender el mod o cobrar por acceder a él.
+
+Contenido de terceros:
+  - Parte de las texturas está hecha a partir de texturas de Minecraft
+    (Mojang Studios / Microsoft). Esas texturas siguen siendo de sus
+    dueños y se usan conforme a las Pautas de uso de Minecraft.
+  - Las texturas de los paquetes "Faithful 32x" y "Faithful 64x"
+    incluidos están hechas a partir de texturas de Faithful
+    (faithfulpack.net), que pertenecen a sus autores.
+
+Minecraft es una marca de Mojang Studios. Mother Lode + no es un producto
+oficial de Minecraft y no está aprobado por Mojang Studios ni Microsoft
+ni asociado a ellos.
+
+EL MOD SE ENTREGA "TAL CUAL", SIN GARANTÍAS DE NINGÚN TIPO. EL AUTOR NO
+SE HACE RESPONSABLE DE DAÑOS O PÉRDIDAS DE DATOS (POR EJEMPLO, MUNDOS)
+DERIVADOS DE SU USO. HAZ RESPALDO DE TUS MUNDOS.
+
+========================================================================
+ENGLISH
+========================================================================
+
+This mod, including its source code, textures, artwork, texts and any
+other original content, is the work of x'auka and is protected by
+copyright. All rights reserved.
+
+You may:
+  - Download the mod and install it to play, in single player or on
+    servers.
+  - Record, stream and publish videos, images or live streams that
+    show the mod.
+
+You may not, without written permission from x'auka:
+  - Re-upload, publish or distribute the mod, in whole or in part, on
+    any site or platform.
+  - Include the mod in modpacks.
+  - Modify the code or textures and distribute the result.
+  - Use the mod's code, textures or designs in other projects.
+  - Sell the mod or charge for access to it.
+
+Third-party content:
+  - Some textures are based on Minecraft textures (Mojang Studios /
+    Microsoft). Those textures remain the property of their owners and
+    are used in accordance with the Minecraft Usage Guidelines.
+  - The textures in the bundled "Faithful 32x" and "Faithful 64x" packs
+    are based on Faithful textures (faithfulpack.net), which belong to
+    their authors.
+
+Minecraft is a trademark of Mojang Studios. Mother Lode + is not an
+official Minecraft product and is not approved by or associated with
+Mojang Studios or Microsoft.
+
+THE MOD IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. THE AUTHOR IS
+NOT LIABLE FOR ANY DAMAGE OR DATA LOSS (FOR EXAMPLE, WORLDS) ARISING
+FROM ITS USE. BACK UP YOUR WORLDS.
